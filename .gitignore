@@ -12,3 +12,13 @@ Thumbs.db
 *.log*
 node_modules/
 build/
+
+*.ai
+*.log
+*.pdf
+*.psd
+
+npm-debug.*
+source/css/*.css
+source/css/*.map
+/package-lock.json
